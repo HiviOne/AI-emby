@@ -1,91 +1,103 @@
 # > 云梯在线2
-DOMAIN,emby2.yunti.online
+DOMAIN-SUFFIX,emby2.yunti.online
 
 # > 惊蛰
-DOMAIN,emby.jingzhe.pro
+DOMAIN-SUFFIX,emby.jingzhe.pro
 
 # > 叶子高码
-DOMAIN,gm.yezi.my
+DOMAIN-SUFFIX,gm.yezi.my
 
 # > 稳健服
-DOMAIN,emby.wenjian.de
+DOMAIN-SUFFIX,emby.wenjian.de
 
 # > 云上
-#DOMAIN,s.outong-valve.com
+DOMAIN-SUFFIX,s.outong-valve.com
 
 # > 墨云阁
-DOMAIN,m.mobaiemby.site
+DOMAIN-SUFFIX,m.mobaiemby.site
 
 # > 起点站
-DOMAIN,free.28.al
+DOMAIN-SUFFIX,free.28.al
 
 # > theluyuan
-DOMAIN,dongman.theluyuan.com
+DOMAIN-SUFFIX,dongman.theluyuan.com
 
 # > BB
-DOMAIN,beebi.org
+DOMAIN-SUFFIX,beebi.org
 
 # > ZN的影视库
-DOMAIN,emby.zn.al
+DOMAIN-SUFFIX,emby.zn.al
 
 # > 游骑兵
-DOMAIN,emby.heisi.org
+DOMAIN-SUFFIX,emby.heisi.org
 
 # > 0°
-DOMAIN,ciallo.party
+DOMAIN-SUFFIX,ciallo.party
 
 # > 疯狂星期四v50
-DOMAIN,kfc.v50.su
+DOMAIN-SUFFIX,kfc.v50.su
+
+
+kfc.v50.su:443 #V4直连线路
+
+emby.v50.su:443 #V6直连线路
+
+cloudflare.v50.su:443 #CloudFlare加速线路
+
+cdn.v50.su:443 #野鸡CDN线路
+
+
+
 
 # > 二次元
-DOMAIN,media.nijigem.by
+DOMAIN-SUFFIX,media.nijigem.by
 
 # > nyamedia（伟大）
-DOMAIN,emby.bangumi.ca
+DOMAIN-SUFFIX,emby.bangumi.ca
 
 # > ouo
-DOMAIN,random.ouonet.org
+DOMAIN-SUFFIX,random.ouonet.org
 
 # > paul
-DOMAIN,emby.imetyou.top
+DOMAIN-SUFFIX,emby.imetyou.top
 
 # >终点站
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub1.term.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub2.term.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub3.term.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub1.term.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub2.term.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3.term.wtf
 
 # > Cc
-DOMAIN,cc.ccemby.tk
+DOMAIN-SUFFIX,cc.ccemby.tk
 
 # > 垃圾影音
 DOMAIN-SUFFIX,loseremby.org
 
 # > 卷毛鼠
-DOMAIN,jmsooo.com
-DOMAIN,cf.jmsooo.com
-DOMAIN,hk.jmsooo.com
-DOMAIN,sg.jmsooo.com
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,hk.jmsooo.com
+DOMAIN-SUFFIX,sg.jmsooo.com
 
 # > 普拉斯影业
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-sg.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,emby-sg.plusmedia.site
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
 
 # > emby-jmsooo
-DOMAIN,agahk1.jmsooo.com
-DOMAIN,agasg1.jmsooo.com
-DOMAIN,agajp1.jmsooo.com
-DOMAIN,aws.jmsooo.com
-DOMAIN,ntt1.jmsooo.com
-DOMAIN,hinet.jmsooo.com
-DOMAIN,cf1.jmsooo.com
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
 
 #> 1111
 DOMAIN-SUFFIX,emby.ml
